@@ -135,6 +135,10 @@ header a:hover {
     width:300px;
     text-align:center;
 }
+.name img {
+    width:100%;
+    border-radius: 10px;;
+}
 .newsletter {
     background-color:#485652;
     color:white;
